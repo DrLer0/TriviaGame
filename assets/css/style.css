@@ -14,6 +14,16 @@ body{
     align-items: center;
 }
 .box{
-    padding: 3% 300px 40%;
+    
+    padding: 3% 10% 30%;
     background-color: rgba(240, 230, 140, 0.733);
+}
+.last-seconds{
+    color: red;
+}
+.correct{
+    color: rgb(3, 190, 3);
+}
+.incorrect{
+    color: red;
 }
